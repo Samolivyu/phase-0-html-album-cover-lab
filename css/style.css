@@ -30,6 +30,7 @@ h1 {
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
+  color: black;
 }
 
 h2 {
@@ -89,18 +90,22 @@ img {
   -moz-box-shadow: 0 2px 3px black;
   -webkit-box-shadow: 0 2px 3px black;
   box-shadow: 0 2px 3px black;
+  color: black;
 }
 
 #front {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
+  color: black;
 } 
 
 #back {
   background: rgba(247,211,27,1);
   text-align: center;
   padding: 130px 35px 35px;
+  color: black;
+
 }
 
 #title-box {
@@ -109,4 +114,6 @@ img {
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+  color: black;
+
 }
